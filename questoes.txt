@@ -1,4 +1,0 @@
-1. Estamos integrando a solução ao Barzinga para experimentar algumas situações. Quais métricas poderiam indicar eficiência (vantanges) do recomendador?
-2. Tente expandir estas métricas para mais dois cenários de uso (recomendação de vídeos e comércio eletrônico) e veja quais delas ainda são válidas.
-3. Quais situações podemos explorar no Barzinga e o que elas validam?
-4. Nosso objetivo é contruir um produto genérico, que atenda diversas situações. Como você acha que podemos tratar as especificidades? Elabora um plano.
